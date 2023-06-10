@@ -1,0 +1,1 @@
+This project aims to see if there is significant differences between Bipolar, UD and Control group from the dataset. The data comes from Kaggle : https://www.kaggle.com/datasets/mercheovejero/theory-of-mind-in-remitted-bipolar-disorder
